@@ -4,7 +4,7 @@
 
 This automation will modify the following file:
 
-- `frontend/index.js`
+- `frontend/javascript/index.js`
 
 It will add the following NPM packages:
 
